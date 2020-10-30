@@ -46,7 +46,7 @@ em {
   margin: 5% 3% 5% 0;
 }
 
-@media (min-width: 980px) {
+@media (min-width: 992px) {
   .title-image {
     width: 60%;
     margin-top: 30px;
@@ -54,9 +54,8 @@ em {
     transform: rotate(25deg);
   }
 }
-@media (max-width: 981px) {
+@media (max-width: 992px) {
   .title-image {
-    margin-top: 30px;
     text-align: center;
   }
 }
